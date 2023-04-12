@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Api\\BubberDinner.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Api\\BubberDinner.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Api\\BubberDinner.Api.csproj",
+        "projectName": "BubberDinner.Api",
+        "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Api\\BubberDinner.Api.csproj",
+        "packagesPath": "C:\\Users\\Khatab Mohamed\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Khatab Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj": {
+                "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj"
+              },
+              "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Contract\\BubberDinner.Contract.csproj": {
+                "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Contract\\BubberDinner.Contract.csproj"
+              },
+              "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj": {
+                "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23112.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj",
+        "projectName": "BubberDinner.Application",
+        "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj",
+        "packagesPath": "C:\\Users\\Khatab Mohamed\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Khatab Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Domain\\BubberDinner.Domain.csproj": {
+                "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Domain\\BubberDinner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Contract\\BubberDinner.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Contract\\BubberDinner.Contract.csproj",
+        "projectName": "BubberDinner.Contract",
+        "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Contract\\BubberDinner.Contract.csproj",
+        "packagesPath": "C:\\Users\\Khatab Mohamed\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Khatab Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Domain\\BubberDinner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Domain\\BubberDinner.Domain.csproj",
+        "projectName": "BubberDinner.Domain",
+        "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Domain\\BubberDinner.Domain.csproj",
+        "packagesPath": "C:\\Users\\Khatab Mohamed\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Khatab Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj",
+        "projectName": "BubberDinner.Infrastructure",
+        "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Khatab Mohamed\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Khatab Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj": {
+                "projectPath": "D:\\Backend\\CQRS\\BuberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

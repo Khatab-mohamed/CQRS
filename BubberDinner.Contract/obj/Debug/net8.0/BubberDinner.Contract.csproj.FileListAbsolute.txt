@@ -1,0 +1,12 @@
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\bin\Debug\net8.0\BubberDinner.Contract.deps.json
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\bin\Debug\net8.0\BubberDinner.Contract.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\bin\Debug\net8.0\BubberDinner.Contract.pdb
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.csproj.AssemblyReference.cache
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.AssemblyInfoInputs.cache
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.AssemblyInfo.cs
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.csproj.CoreCompileInputs.cache
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\refint\BubberDinner.Contract.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\BubberDinner.Contract.pdb
+D:\Backend\CQRS\BuberDinner\BubberDinner.Contract\obj\Debug\net8.0\ref\BubberDinner.Contract.dll

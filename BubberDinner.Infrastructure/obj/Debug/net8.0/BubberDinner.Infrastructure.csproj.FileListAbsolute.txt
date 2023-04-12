@@ -1,0 +1,17 @@
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Infrastructure.deps.json
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Infrastructure.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Infrastructure.pdb
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.csproj.AssemblyReference.cache
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.AssemblyInfoInputs.cache
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.AssemblyInfo.cs
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\refint\BubberDinner.Infrastructure.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.pdb
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\ref\BubberDinner.Infrastructure.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Application.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Domain.dll
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Application.pdb
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\bin\Debug\net8.0\BubberDinner.Domain.pdb
+D:\Backend\CQRS\BuberDinner\BubberDinner.Infrastructure\obj\Debug\net8.0\BubberDinner.Infrastructure.csproj.CopyComplete
